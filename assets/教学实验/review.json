@@ -1,0 +1,837 @@
+{
+  "name": "教学实验",
+  "source_filename": "中学物理教材教法实验讲义（新）2025年8月.pdf",
+  "source_sha256": "a0873f5fb0c10679a3064752faeb88a23a897cf2ee595a6bf6ad31a197e5db06",
+  "counts": {
+    "pages": 63,
+    "blocks": 820,
+    "formulas": 3,
+    "pictures": 59
+  },
+  "source_page_coverage_complete": true,
+  "math_accuracy": "NOT_CERTIFIED",
+  "pending_formulas": 3,
+  "inline_risk_blocks": 28,
+  "page_index": [
+    {
+      "pdf_page": 1,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0001.jpg"
+    },
+    {
+      "pdf_page": 2,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0002.jpg"
+    },
+    {
+      "pdf_page": 3,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0003.jpg"
+    },
+    {
+      "pdf_page": 4,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0004.jpg"
+    },
+    {
+      "pdf_page": 5,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0005.jpg"
+    },
+    {
+      "pdf_page": 6,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0006.jpg"
+    },
+    {
+      "pdf_page": 7,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0007.jpg"
+    },
+    {
+      "pdf_page": 8,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0008.jpg"
+    },
+    {
+      "pdf_page": 9,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0009.jpg"
+    },
+    {
+      "pdf_page": 10,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0010.jpg"
+    },
+    {
+      "pdf_page": 11,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0011.jpg"
+    },
+    {
+      "pdf_page": 12,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0012.jpg"
+    },
+    {
+      "pdf_page": 13,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0013.jpg"
+    },
+    {
+      "pdf_page": 14,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0014.jpg"
+    },
+    {
+      "pdf_page": 15,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0015.jpg"
+    },
+    {
+      "pdf_page": 16,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0016.jpg"
+    },
+    {
+      "pdf_page": 17,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0017.jpg"
+    },
+    {
+      "pdf_page": 18,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0018.jpg"
+    },
+    {
+      "pdf_page": 19,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0019.jpg"
+    },
+    {
+      "pdf_page": 20,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0020.jpg"
+    },
+    {
+      "pdf_page": 21,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0021.jpg"
+    },
+    {
+      "pdf_page": 22,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0022.jpg"
+    },
+    {
+      "pdf_page": 23,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0023.jpg"
+    },
+    {
+      "pdf_page": 24,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0024.jpg"
+    },
+    {
+      "pdf_page": 25,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0025.jpg"
+    },
+    {
+      "pdf_page": 26,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0026.jpg"
+    },
+    {
+      "pdf_page": 27,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0027.jpg"
+    },
+    {
+      "pdf_page": 28,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0028.jpg"
+    },
+    {
+      "pdf_page": 29,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0029.jpg"
+    },
+    {
+      "pdf_page": 30,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0030.jpg"
+    },
+    {
+      "pdf_page": 31,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0031.jpg"
+    },
+    {
+      "pdf_page": 32,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0032.jpg"
+    },
+    {
+      "pdf_page": 33,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0033.jpg"
+    },
+    {
+      "pdf_page": 34,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0034.jpg"
+    },
+    {
+      "pdf_page": 35,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0035.jpg"
+    },
+    {
+      "pdf_page": 36,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0036.jpg"
+    },
+    {
+      "pdf_page": 37,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0037.jpg"
+    },
+    {
+      "pdf_page": 38,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0038.jpg"
+    },
+    {
+      "pdf_page": 39,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0039.jpg"
+    },
+    {
+      "pdf_page": 40,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0040.jpg"
+    },
+    {
+      "pdf_page": 41,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0041.jpg"
+    },
+    {
+      "pdf_page": 42,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0042.jpg"
+    },
+    {
+      "pdf_page": 43,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0043.jpg"
+    },
+    {
+      "pdf_page": 44,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0044.jpg"
+    },
+    {
+      "pdf_page": 45,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0045.jpg"
+    },
+    {
+      "pdf_page": 46,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0046.jpg"
+    },
+    {
+      "pdf_page": 47,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0047.jpg"
+    },
+    {
+      "pdf_page": 48,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0048.jpg"
+    },
+    {
+      "pdf_page": 49,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0049.jpg"
+    },
+    {
+      "pdf_page": 50,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0050.jpg"
+    },
+    {
+      "pdf_page": 51,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0051.jpg"
+    },
+    {
+      "pdf_page": 52,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0052.jpg"
+    },
+    {
+      "pdf_page": 53,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0053.jpg"
+    },
+    {
+      "pdf_page": 54,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0054.jpg"
+    },
+    {
+      "pdf_page": 55,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0055.jpg"
+    },
+    {
+      "pdf_page": 56,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0056.jpg"
+    },
+    {
+      "pdf_page": 57,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0057.jpg"
+    },
+    {
+      "pdf_page": 58,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0058.jpg"
+    },
+    {
+      "pdf_page": 59,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0059.jpg"
+    },
+    {
+      "pdf_page": 60,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0060.jpg"
+    },
+    {
+      "pdf_page": 61,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0061.jpg"
+    },
+    {
+      "pdf_page": 62,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0062.jpg"
+    },
+    {
+      "pdf_page": 63,
+      "printed_page": null,
+      "needs_review": true,
+      "ocr_expected": false,
+      "page_image": "assets/教学实验/pages/page-0063.jpg"
+    }
+  ],
+  "formula_review": [
+    {
+      "id": "part-0021-formula-0001",
+      "block_id": "block-00032",
+      "candidate_latex": "a = & \\frac { ( s 6 + s 5 + s 4 ) - ( s 3 + s 2 + s 1 ) } { 9 T 2 }",
+      "status": "needs_review",
+      "source_pages": [
+        22
+      ],
+      "provenance": [
+        {
+          "pdf_page": 22,
+          "bbox": {
+            "l": 115.3195,
+            "t": 108.59159999999997,
+            "r": 265.13349999999997,
+            "b": 77.71775912727276,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            50
+          ]
+        }
+      ],
+      "source_crops": [
+        "assets/教学实验/part-0021/formula-0001-p0022-0.png"
+      ],
+      "flags": [],
+      "checks": {
+        "minus_sign": "pending",
+        "fraction_scope": "pending",
+        "subscripts_superscripts": "pending",
+        "dot_derivatives": "pending",
+        "partial_and_total_differentials": "pending",
+        "greek_letters": "pending",
+        "vectors": "pending",
+        "equation_number": "pending"
+      },
+      "original_equation_number": null,
+      "equation_number_status": "needs_review",
+      "bundle_formula_id": "formula-0001",
+      "source_page_images": [
+        "assets/教学实验/pages/page-0022.jpg"
+      ]
+    },
+    {
+      "id": "part-0041-formula-0001",
+      "block_id": "block-00083",
+      "candidate_latex": "\\begin{array} {",
+      "status": "needs_review",
+      "source_pages": [
+        47
+      ],
+      "provenance": [
+        {
+          "pdf_page": 47,
+          "bbox": {
+            "l": 103.3195,
+            "t": 767.4921696,
+            "r": 456.98875,
+            "b": 740.7277431272728,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            64
+          ]
+        }
+      ],
+      "source_crops": [
+        "assets/教学实验/part-0041/formula-0001-p0047-0.png"
+      ],
+      "flags": [
+        "unbalanced_braces",
+        "check_environment_pairs"
+      ],
+      "checks": {
+        "minus_sign": "pending",
+        "fraction_scope": "pending",
+        "subscripts_superscripts": "pending",
+        "dot_derivatives": "pending",
+        "partial_and_total_differentials": "pending",
+        "greek_letters": "pending",
+        "vectors": "pending",
+        "equation_number": "pending"
+      },
+      "original_equation_number": null,
+      "equation_number_status": "needs_review",
+      "bundle_formula_id": "formula-0001",
+      "source_page_images": [
+        "assets/教学实验/pages/page-0047.jpg"
+      ]
+    },
+    {
+      "id": "part-0041-formula-0002",
+      "block_id": "block-00087",
+      "candidate_latex": "I = I _ { 0 } e ^ { - t / \\tau } \\quad I _ { 0 } = \\frac { E } { r } \\quad \\tau = \\frac { L } { R } + r",
+      "status": "needs_review",
+      "source_pages": [
+        47
+      ],
+      "provenance": [
+        {
+          "pdf_page": 47,
+          "bbox": {
+            "l": 108.69199679,
+            "t": 599.6892095999999,
+            "r": 273.213396498,
+            "b": 572.9247831272727,
+            "coord_origin": "BOTTOMLEFT"
+          },
+          "charspan": [
+            0,
+            39
+          ]
+        }
+      ],
+      "source_crops": [
+        "assets/教学实验/part-0041/formula-0002-p0047-0.png"
+      ],
+      "flags": [],
+      "checks": {
+        "minus_sign": "pending",
+        "fraction_scope": "pending",
+        "subscripts_superscripts": "pending",
+        "dot_derivatives": "pending",
+        "partial_and_total_differentials": "pending",
+        "greek_letters": "pending",
+        "vectors": "pending",
+        "equation_number": "pending"
+      },
+      "original_equation_number": null,
+      "equation_number_status": "needs_review",
+      "bundle_formula_id": "formula-0002",
+      "source_page_images": [
+        "assets/教学实验/pages/page-0047.jpg"
+      ]
+    }
+  ],
+  "inline_math_review": [
+    {
+      "pdf_page": 10,
+      "block_id": "part-0001-block-00073",
+      "raw_text": "现以测定加速度的实验为例，看看两种实验方案所能达到的不同教学目的。在气 垫导轨上测定加速度可以有两种方法。一是根据 t v v a   1 2 ,的原理二是根据 2 2 t s a  的 原理。前者可用来建立加速度概念；后者是以匀加速运动规律为基础，适用于将加速 度概念引申为匀加速概念，并应用来进行运动学量的测量。由此可见，任何一个教学 实验，都有它特定的教学目的。它所解决的教学问题越是关键，其价值也就越大。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 14,
+      "block_id": "part-0011-block-00058",
+      "raw_text": "2.根据电流计在某一端时电流为零，列出平衡方程，L1/L2=R1/R2,L1=0，L2=L,R1 ≠ 0,必有 R2 →∞，即判定 R2 断路，用实验验证。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 14,
+      "block_id": "part-0011-block-00065",
+      "raw_text": "单摆与重力加速度的关系，由于条件限制，无法与学生通过实验归纳得出。在学 生能力较强的情况下，可以引导学生根据 T=2π k m 的公式，推导出单摆的周期公式",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 14,
+      "block_id": "part-0011-block-00066",
+      "raw_text": "T=2π g l .再进行第四个小实验：用一个强磁铁放在钢球单摆的下方，模拟重力的增 加，定性地说明单摆周期与重力加速度 g 的关系，在这个过程中，学生就学习了一种 实验研究的方法。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 15,
+      "block_id": "part-0011-block-00079",
+      "raw_text": "一般在进行实验设计时，应明确要研究的是哪几个物理量的关系，这几个物理量 能否直接测的？如果不能直接测得，如何控制实验条件等。按这样的思路把实验理论 方案设计出来。然后再构思实验装置，确定实验步骤，设计实验表格。例如，要求设 计用容抗法测电容量的实验，首先需要知道容抗与电容的关系。X= fc    ，由伏安法测 电阻的实验可以得到启发，通过 Vc=IXc 的关系可间接测得 Xc,因此就可以设计出实验的 方案。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 21,
+      "block_id": "part-0021-block-00015",
+      "raw_text": "电磁铁打点计时器采用 4-6V 学生交流电源提供频率 f=50Hz 的交流电，打点周期 为 0.02s，电磁打点计时器的结构如图 2-1 所示，线圈和穿插在线圈中间的振片组成了 一个电磁铁，通电后产生磁场，振片被磁化，靠近永久磁铁的一端随着交流电方向的 变化，其磁性在 N 极和 S 极之间切换，由于异性相吸，其会带动振针靠近永久磁铁的 上端或下端（N 极或 S 极），进而通过复写纸在纸带上打出点，其周期为交流电的变化 周期 0.02s。限位孔的作用是固定纸带位置，复写纸则是为了使振针在纸带上打出点来， 复写纸的中间为定位轴，以固定复写纸位置。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 21,
+      "block_id": "part-0021-block-00016",
+      "raw_text": "电火花打点计时器采用 220V 交流电源提供频率 f=50Hz 的交流电，打点周期为 0.02s，电火花打点计时器的结构如图 2-2 所示，按下脉冲输出开关时，计时器发出的 脉冲电流经接正极的放电针、墨粉纸盘到接负极的纸盘轴，产生火花放电，在运动的 纸带上打出一系列的点迹。电火花打点计时器工作时，纸带运动时受到的阻力（误差 源于纸带运动本身而不是打点产生的）比电磁打点计时器（误差源于振针与纸带的摩",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 22,
+      "block_id": "part-0021-block-00030",
+      "raw_text": "用米尺分别测出 S1，····Sn；列表计算，相邻的计数周期内位移差（sn+1-sn）、瞬 时速度 V（v1=(s1+s2)/2T）等，并求出重力加速度 a 值。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 24,
+      "block_id": "part-0021-block-00060",
+      "raw_text": "2.如何测瞬时速度？如果运动是匀加速直线运动，v= T S  ，是ΔS中点的瞬时速度， 还是ΔT 中点的瞬时速度？每ΔS 取得大小有何影响？",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 24,
+      "block_id": "part-0021-block-00061",
+      "raw_text": "3.如果 S1：S2：S3·····≠1：3：5····， 而是 S1：S2：S3·····=1：1.5：2：·····， 问这是初速度为零的匀加速直线运动吗？为什么？",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 29,
+      "block_id": "part-0021-block-00143",
+      "raw_text": "7.点击\"变量\"添加小桶质量 m；点击\"公式\"添加\"F=m*9.8\"；点击\"公式\" 添加\"a=（0.02/t2-0.02/t1）/t12\"，点击自动记录下的开始，使小车在小桶拉力下开始 运动得到一组数据；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 29,
+      "block_id": "part-0021-block-00147",
+      "raw_text": "10.重新打开计算表格，点击\"变量\"勾选\"挡光片经过两个光电门的时间\"得到 \"t12\"，点击\"变量\"添加小车质量 m'；点击\"公式\"添加\"Fx=1/m'\"，点击\"公式\" 添加\"a=（0.02/t2-0.02/t1）/t12\"，点击自动记录下的开始，使小车在小桶拉力下开始 运动得到一组数据并输入小车的质量；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 29,
+      "block_id": "part-0021-block-00154",
+      "raw_text": "（2）思考：以弹簧测力计的示数F为横坐标，加速度为纵坐标，画出的a－F图象 是一条直线，图线与横坐标轴的夹角为θ，求得图线的斜率为k，则小车的质量为多少？",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 32,
+      "block_id": "part-0031-block-00021",
+      "raw_text": "圆柱面向着光线入射方向，如图5-5所示。转动度盘， 开始入射角较小时，可看到界面反射光线亮度弱，折射光 线强；随着度盘转动，入射角增大，反射角和折射角也增 大，反射光线亮度逐渐增大，折射光线逐渐减弱，当折射 角也增大，反射光线亮度逐渐增大，折射光线逐渐减弱， 当折射角恰好为90度时，光线发生掠射，记下此时入射角 i0 的 值 即 为 玻 璃 对 空 气 界 面 的 临 界 面 ， 可 以 验 证 sini0=1/n，当入射角大于等于临界角i0时界面没有折射 光线，而全部被反射，即发生全反射现象。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 36,
+      "block_id": "part-0031-block-00062",
+      "raw_text": "利用静电计可以度量带电导体的电位或两个导体间的电位差，使用时把它的金属 球与被测导体连接，静电计的金属外壳与另一个连接或同时接地，从指针的偏转角度 就可以知道导体的电位差。因为金属与外壳之间存在电位差µ时。在静电计内存在电场， 金属和指针带有电荷，指针上的电荷在电场的作用下，使指针被推开而偏转一个角度ɵ。 张角ɵ的大小，取决于指针上单位面积所受的电场力 F，而 F 的大小又取决于电场强度 E 和指针上的面电荷密度σ,面电荷密度σ实际上也取决于电场强度 E，因此 F 的大小 是由 E 决定的。而电场强度 E 又由电位差µ决定，所以张角ɵ的大小就反映了电位差ɵ 的大小。若µ为零，Ɵ也为零。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 41,
+      "block_id": "part-0041-block-00004",
+      "raw_text": "平行板电容器的电容量与极板间的距离成反比，与极板间的有效面积和极板间介 质的介电常数成正比，即 d c S k   式中k为比例系数。本实验的目的是定性地验证上 述关系。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 41,
+      "block_id": "part-0041-block-00005",
+      "raw_text": "从电容器所带的电盘，电容和电容器两端的电势差三者关系 Q=cµ可知：当电量 Q 保持不变时，如果电势差µ增大，那么电容 c 将减小。反之，电势差减小，电容增大。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 41,
+      "block_id": "part-0041-block-00008",
+      "raw_text": "演示装置如图 6-10 所示。A，B 为装在绝缘支柱上可以移动的平行板电容器的极 板（直径相同）。另外还有一块与极板一样大小的绝缘板，A 板与静电计的金属杆相连， B 板与静电计的金属外壳连接，使 AB 两极板间的距离越为 2~3 厘米，然后丝绸摩擦过 的有机玻璃棒使 A 板带电，这时静电计指针张开某一角度，将 B 板逐渐向外移动，静 电计指针的张角随之增大，即两极板间的电势差增大。根据 Q=cµ可知电容减小，反之 亦然，从而说明电容器的电容与极板间的距离成反比。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 47,
+      "block_id": "part-0041-block-00084",
+      "raw_text": "可见 L 支路中的电流是按指数率上升的。它达到稳定电流的时刻较 R 支路要推迟。 如果在这两个支路的直流电阻相同，L 支路中的灯泡就会推迟达到正常亮度，为使现 象明显，应加大时间常数τ，即应加大电感 L，减小支路的等效直流电阻 r。在选择元 件时，就可以从 L 和 r 两个因素出发，综合考虑两者的影响找到合适的元件。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 47,
+      "block_id": "part-0041-block-00089",
+      "raw_text": "用 R 上消耗的瞬时功率进行比较，即取 R 为小灯泡，如果断开开关后，小灯泡的 亮度超过原先的亮度这说明了断路后自感电动势在起作用。但这个现象并不是这种类 型电路的普通现象，它仅在一定条件下成立，从上面分析可知，短路前流过 R 的电流 R E I R  ,而断路后流过R的电流最大值，即等于流过L中的初始电流 r E I I L R   0 , 。 显然，在 R=r 或 R<r 时，IR≥I'R ，灯泡的亮度不可能有突然变亮的现象，只有在 R>>r 时，IR<<I'R 灯泡可能出现突闪的现象。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 50,
+      "block_id": "part-0041-block-00124",
+      "raw_text": "⑤打开 DISLab 软件，选择\"通用软件\"，点击新建\"计算表格\"，添加变量\"d=0.02m\" 表示挡光片宽度；添加公式\"v1=d/t1\"表示黄色小车通过第一个光电门传感器时的速 度；添加公式\"v2=d/t2\"表示红色小车通过第二个光电门传感器时的速度；添加变量 \"m1\"，表示黄色小车的质量，添加变量\"m2\"，表示红色小车的质量；添加自定义公 式\"p1=m1*v1\"表示黄色小车通过第一个光电门时的动量，添加自定义公式 \"p2=m2*v2\"表示红色小车通过第二个光电门时的动量；添加自定义公式\"p=p1-p2\" 表示系统的动量之和；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 50,
+      "block_id": "part-0041-block-00132",
+      "raw_text": "⑫打开软件，选择\"通用软件\"，选择\"计算表格\"，添加变量\"d=0.02m\"表示挡 光片宽度；添加公式\"v1=d/t1\"表示黄色小车通过第一个光电门传感器时的速度；添 加公式\"v2=d/t2\"表示红色小车通过第二个光电门传感器时的速度；添加变量\"m1\"，",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 51,
+      "block_id": "part-0051-block-00001",
+      "raw_text": "表示黄色小车的质量，添加变量\"m2\"，表示红色小车的质量；添加自定义公式 \"p1=m1*v1\"表示黄色小车通过第一个光电门时的动量，添加自定义公式\"p2= （m1+m2）*v2\"表示碰撞后两个小车通过第二个光电门时的动量；添加自定义公式 \"n=（p1-p2）/p1\"表示实验的误差；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 53,
+      "block_id": "part-0051-block-00044",
+      "raw_text": "4.输入 r=0.12，m=0.022，拨动旋臂得到一组数据；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 53,
+      "block_id": "part-0051-block-00045",
+      "raw_text": "5.改变砝码运动半径，依次为 9cm、6cm、3cm，拨动旋臂，依次获得实验数据， 点击\"二次拟合\"\"选择 F 值\"，得到四条曲线上ω相对应的 F 值，点击\"F-r 图像\"；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 53,
+      "block_id": "part-0051-block-00046",
+      "raw_text": "探究 F 与ω关系",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 53,
+      "block_id": "part-0051-block-00047",
+      "raw_text": "6.点击\"F-ω 2 \"图像，点击一次拟合；",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 53,
+      "block_id": "part-0051-block-00049",
+      "raw_text": "7.保持圆周运动半径不变，改变砝码质量，得到三组数据，点击\"二次拟合\"，点 击\"选择ω值\"，得到三条曲线上ω对应的 F 值，点击\"F-m 图像\"，点击\"一次拟合\"。",
+      "status": "needs_review"
+    }
+  ],
+  "checks": [
+    {
+      "start": 1,
+      "end": 10,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    },
+    {
+      "start": 11,
+      "end": 20,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    },
+    {
+      "start": 21,
+      "end": 30,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    },
+    {
+      "start": 31,
+      "end": 40,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    },
+    {
+      "start": 41,
+      "end": 50,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [
+        {
+          "id": "formula-0001",
+          "pages": [
+            47
+          ],
+          "flags": [
+            "unbalanced_braces",
+            "check_environment_pairs"
+          ]
+        }
+      ],
+      "reading_order_risks": []
+    },
+    {
+      "start": 51,
+      "end": 60,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    },
+    {
+      "start": 61,
+      "end": 63,
+      "structural_pass": true,
+      "errors": [],
+      "math_risks": [],
+      "reading_order_risks": []
+    }
+  ]
+}
