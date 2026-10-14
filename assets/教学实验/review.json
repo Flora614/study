@@ -11,7 +11,7 @@
   "source_page_coverage_complete": true,
   "math_accuracy": "NOT_CERTIFIED",
   "pending_formulas": 3,
-  "inline_risk_blocks": 28,
+  "inline_risk_blocks": 36,
   "page_index": [
     {
       "pdf_page": 1,
@@ -499,6 +499,9 @@
       "bundle_formula_id": "formula-0001",
       "source_page_images": [
         "assets/教学实验/pages/page-0022.jpg"
+      ],
+      "display_crops": [
+        "assets/教学实验/part-0021/formula-0001-p0022-0-full-line.png"
       ]
     },
     {
@@ -547,6 +550,9 @@
       "bundle_formula_id": "formula-0001",
       "source_page_images": [
         "assets/教学实验/pages/page-0047.jpg"
+      ],
+      "display_crops": [
+        "assets/教学实验/part-0041/formula-0001-p0047-0-full-line.png"
       ]
     },
     {
@@ -592,6 +598,9 @@
       "bundle_formula_id": "formula-0002",
       "source_page_images": [
         "assets/教学实验/pages/page-0047.jpg"
+      ],
+      "display_crops": [
+        "assets/教学实验/part-0041/formula-0002-p0047-0-full-line.png"
       ]
     }
   ],
@@ -762,6 +771,54 @@
       "pdf_page": 53,
       "block_id": "part-0051-block-00049",
       "raw_text": "7.保持圆周运动半径不变，改变砝码质量，得到三组数据，点击\"二次拟合\"，点 击\"选择ω值\"，得到三条曲线上ω对应的 F 值，点击\"F-m 图像\"，点击\"一次拟合\"。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00069",
+      "raw_text": "记为 l，则 OA2＝2l，OA3＝3l，由 A1、A2、A3…向下作垂线，与其轨迹交点分别记为 M1、 M2、M3…，若轨迹是一条抛物线，则各点的 y 坐标和 x 坐标之间应该具有 y＝ax 2 的关 系(a 是待定常量)，用刻度尺测量某点的 x、y 两个坐标值代入 y＝ax 2 ，求出 a，再测 量其他几个点的 x、y 坐标值，代入 y＝ax2，若在误差范围内都满足这个关系式，则 这条曲线是一条抛物线；.",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00072",
+      "raw_text": "情景 1：若原点 O 为抛出点，利用公式 x＝v0t 和 y＝ gt 2 即可求出多个初速",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00073",
+      "raw_text": "度v0＝ ，最后求出初速度的平均值，这就是做平抛运动的物体的初速度.",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00075",
+      "raw_text": "①在轨迹曲线上取三点 A、B、C，使 xAB＝xBC＝x，如图 11-3 所示.A 到 B 与 B 到 C 的时间相等，设为 T. g",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00076",
+      "raw_text": "②用刻度尺分别测出 yA、yB、yC，则有 yAB＝yB－yA，yBC＝yC－yB.",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 55,
+      "block_id": "part-0051-block-00077",
+      "raw_text": "③yBC－yAB＝gT 2 ，且 v0T＝x，由以上两式得 v0＝",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 57,
+      "block_id": "part-0051-block-00096",
+      "raw_text": "实验采用使油酸在水面上形成一层单分子油膜的方法估测分子的大小。当把一滴 用酒精稀释过的油酸滴在水面上时，油酸就在水面上散开，其中的酒精溶于水，并很 快挥发，在水面上形成如图 11-1 甲所示形状的一层纯油酸薄膜。如果算出一定体积的 油酸在水面上形成的单分子油膜的面积，即可算出油酸分子的大小。用 V 表示一滴油 酸酒精溶液中所含纯油酸的体积，用 S 表示单分子油膜的面积，用 d 表示油酸分子的 直径，如图 11-1 乙所示，则 d＝V/S 。",
+      "status": "needs_review"
+    },
+    {
+      "pdf_page": 58,
+      "block_id": "part-0051-block-00106",
+      "raw_text": "7.根据油酸酒精溶液的配制比例，算出一滴油酸酒精溶液中纯油酸的体积 V，并 代入公式 d＝V/S，算出油酸薄膜的厚度 d.",
       "status": "needs_review"
     }
   ],
